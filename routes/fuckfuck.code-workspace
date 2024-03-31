@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "coin-3",
+			"path": "../../coin-3"
+		}
+	],
+	"settings": {}
+}
